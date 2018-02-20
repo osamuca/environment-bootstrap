@@ -13,4 +13,4 @@ echo "\n${BICyan} ZSH >>> INSTALANDO ZSH SHELL ${OFF}\n"
 
 brew install zsh zsh-completions; 
 echo "\n${BIPurple} ZSH >>> INSTALANDO OH MY ZSH ${OFF}\n"
-bash ../zsh-common.sh;
+bash ../common/zsh-common.sh;

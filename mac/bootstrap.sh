@@ -28,6 +28,6 @@ rm -rf fonts
 brew tap caskroom/fonts;
 brew cask install font-fira-code;
 
-bash ../git-bootstrap.sh;
+bash ../common/git-bootstrap.sh;
 bash zsh-bootstrap.sh;
 bash vscode-bootstrap.sh;
