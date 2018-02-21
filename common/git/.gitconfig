@@ -1,8 +1,8 @@
 [alias]
   lg = log --all --decorate --oneline --graph
 [user]
-  name = David Vilaça
-  email = vilacapdavid@gmail.com
+  name = osamuca
+  email = sfverneck@gmail.com
 
 [core]
   editor = vim
